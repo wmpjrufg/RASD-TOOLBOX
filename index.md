@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+<h1>Welcome to RASD Toolbox</h1>
 
-You can use the [editor on GitHub](https://github.com/wmpjrufg/RASD-TOOLBOX/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<table>
+<tr>
+<td style="width:70%;"><p align="justify">The RASD tool is an easy-to-use environment for applying the reliability methods. The platform has several methods implemented, in addition to extra functions for viewing the results.</p></td>
+<td style="width:30%;"><img src="Logo/RASD_LOGO.png"/></td>  
+</tr>
+</table>  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_**Developers**_  
 
-### Markdown
+**Managers Team:**   
+- [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)  
+- [Prof. Romes Antônio Borges]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Students Team:**    
+- Civil Engineer Donizetti Aparecido de Souza Júnior
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wmpjrufg/RASD-TOOLBOX/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_**Index**_  
+1.0 - Installation  
+1.1 - [How to install](https://wmpjrufg.github.io/FINITO_TOOLBOX/CAP_1-1.html)  
+2.0 - Finito FEM Toolbox   
+2.1 - [How to use MEF1D framewrok](https://wmpjrufg.github.io/FINITO_TOOLBOX/CAP_2-1.html)   
+2.2 - [How to use MEF2D framewrok](https://wmpjrufg.github.io/FINITO_TOOLBOX/CAP_2-2.html)   
